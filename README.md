@@ -1,7 +1,7 @@
 
 # Project Name: Sweets & Treats
 
-Live Site Link: 
+Live Site Link: https://gallant-torvalds-23a132.netlify.app/
 
  1. This project is about a dessert shop.
 
