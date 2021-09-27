@@ -6,19 +6,19 @@
     
 }
 .item-info{
-    height: 400px;
+    height: 420px;
     width: 300px;
     border: 1px solid lightgray;
     border-radius: 6px;
     background-color: rgb(236, 231, 231);
     padding: 15px;
     box-shadow: lightgrey;
-    background-color:rgb(250, 205, 212);
+    background-color: peachpuff;
     
     
 }
 .name{
-    color:rgb(73, 6, 73);
+    color:purple;
 }
 .name:hover{
     background-color: lavenderblush;
@@ -38,7 +38,7 @@
   transform: scale(1.1); 
 }
 .button{
-    background-color: rgb(177, 66, 22);
+    background-color: #0D544E;
     color: white;
     margin-left: 42px;
     margin-bottom: 5px;

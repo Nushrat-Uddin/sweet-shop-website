@@ -20,7 +20,7 @@
 .info{
     height: 68px;
     width: 205px;
-    background-color: skyblue;
+    background-color: plum;
     border-radius: 6px;
     margin-top: 20px;
     display: flex;
@@ -28,7 +28,7 @@
 }
 .para{
     margin-top: 20px;
-    color: blue;
+    color: purple;
     font-weight: 600;
 }
 .info img{

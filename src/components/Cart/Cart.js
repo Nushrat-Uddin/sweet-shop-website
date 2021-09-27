@@ -6,7 +6,7 @@ const Cart = (props) => {
     const{cart}=props;
     let total=0;
     for(const item of cart){
-        total = total + item.price;
+        total = total + item.price + item.deliverycharge;
      
     }
     

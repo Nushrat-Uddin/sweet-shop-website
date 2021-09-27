@@ -29,7 +29,7 @@ const Header = () => {
                <i style={iconstyle2} class="fab fa-twitter"></i>
                <i style={iconstyle2} class="fab fa-instagram"></i>
                <i style={iconstyle3} class="fab fa-pinterest-p"></i>
-           FREE SHIPPING ON US CONTINENTAL ORDERS OVER $100</h3>
+           FREE SHIPPING ON US CONTINENTAL ORDERS OVER $10000</h3>
            </nav>
             
         </div>
