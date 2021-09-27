@@ -1,0 +1,31 @@
+.header {
+    
+    text-align: center;
+    
+    
+}
+.navbar{
+    /* background-color: #e74e9d; */
+    background: linear-gradient(to bottom, #ff99ff 0%, #ff9999 100%);
+    line-height: 60px;
+    display: flex;
+    
+   
+}
+
+.nav-h3{
+    color: white;
+   text-align: center;
+}
+.nav-h3 i:hover{
+    color: thistle;
+}
+
+.logo{
+    height: 230px;
+    width: 240px;
+    margin-left: 40px;
+    border-radius: 100px; 
+    
+       
+}

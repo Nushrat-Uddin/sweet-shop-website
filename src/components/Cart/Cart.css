@@ -1,0 +1,41 @@
+.cart-container{
+    background-color: rgb(243, 195, 211);
+    border: 1px solid lavenderblush;
+    border-radius: 3px;
+    height: 140px;
+    width: 200px;
+    margin-left: 30px;
+    padding: 15px;
+    text-align: center;
+
+}
+.btn{
+    background-color: blue;
+    color: white;
+    border-radius: 6px;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.info{
+    height: 68px;
+    width: 205px;
+    background-color: skyblue;
+    border-radius: 6px;
+    margin-top: 20px;
+    display: flex;
+    gap: 6px;
+}
+.para{
+    margin-top: 20px;
+    color: blue;
+    font-weight: 600;
+}
+.info img{
+    
+    height: 60px;
+    width: 70px;
+    border-radius: 30px;
+    margin-top: 3px;
+    margin-left: 3px;
+}

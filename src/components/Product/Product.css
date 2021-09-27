@@ -1,0 +1,49 @@
+.item{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 25px;
+    margin-bottom: 10px;
+    
+}
+.item-info{
+    height: 400px;
+    width: 300px;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    background-color: rgb(236, 231, 231);
+    padding: 15px;
+    box-shadow: lightgrey;
+    background-color:rgb(250, 205, 212);
+    
+    
+}
+.name{
+    color:rgb(73, 6, 73);
+}
+.name:hover{
+    background-color: lavenderblush;
+    font-size: 20px;
+}
+.image{
+    height: 180px;
+    width: 300px;
+    margin-left: 0px;
+    margin-top: 2px;
+    border-radius: 4px;
+}
+.image:hover{
+    filter: brightness(100%);
+    -ms-transform: scale(1.1); 
+  -webkit-transform: scale(1.1); 
+  transform: scale(1.1); 
+}
+.button{
+    background-color: rgb(177, 66, 22);
+    color: white;
+    margin-left: 42px;
+    margin-bottom: 5px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    line-height: 25px;
+    width: 200px;
+}
